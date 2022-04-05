@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "AgendMass",
+    "slug": "AgendMass",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
